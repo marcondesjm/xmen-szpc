@@ -1,0 +1,25 @@
+TAG MARCADOR
+HTML ESQUELETO SITE
+\\header representa cabeçalho.
+\\ main tag principal
+\\section 
+
+\\classes  na tag
+cada tag tem atributos ex. class
+ul \\ lista desordenada
+li \\ listem item
+alt l o pra abrir no navegador
+
+document. quando usamos um ponto tentamos 
+acessar algo dentro desse document.
+
+
+getElementById significa buscar um elemento pelo seu ID.
+document é a representação da nossa página no html
+
+variáveis são caixinhas que vc guarda coisas pra buscar depois
+
+ex. const itemCiclope = document.getElementById('ciclope')
+
+tudo que está depois do igual é o que vamos jogar pra dentro 
+da caixinha pra tá buscando depois.
